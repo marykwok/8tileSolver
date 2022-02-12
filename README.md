@@ -6,6 +6,6 @@ This program provides a solution to all solvable 8-tile puzzles.
 - The heuristic used is l1-norm Manhattan distance of each tile to its goal position
 - propogates successor states
 
-###Usage
-Launch the program with python3 -i 8tileSolver.py. Then use the following command to obtain the steps to the solution represented as a list of states:
-solve(<puzzle>) where puzzle must be in the format mentioned above.
+### Usage
+Launch the program with ```python3 -i 8tileSolver.py``` Then use the following command to obtain the steps to the solution represented as a list of states:
+```solve(<puzzle>)``` where puzzle must be in the format mentioned above.
